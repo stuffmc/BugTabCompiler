@@ -7,13 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0C8F9E032D39802F0014B4AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C8F9E002D39802F0014B4AC /* Assets.xcassets */; };
 		0C8F9E042D39802F0014B4AC /* App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C8F9E022D39802F0014B4AC /* App.swift */; };
 		0C8F9E072D3981600014B4AC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0C8F9E062D3981600014B4AC /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0C8F9E002D39802F0014B4AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C8F9E022D39802F0014B4AC /* App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App.swift; sourceTree = "<group>"; };
 		0C8F9E062D3981600014B4AC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		0CF6A64F2D4BC8F300C4F561 /* App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = App.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -34,7 +32,6 @@
 		0C8F9DE62D397FF70014B4AC = {
 			isa = PBXGroup;
 			children = (
-				0C8F9E002D39802F0014B4AC /* Assets.xcassets */,
 				0C8F9E062D3981600014B4AC /* README.md */,
 				0CF6A6512D4BCA4F00C4F561 /* Error.png */,
 				0C8F9E022D39802F0014B4AC /* App.swift */,
@@ -107,7 +104,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				0C8F9E072D3981600014B4AC /* README.md in Resources */,
-				0C8F9E032D39802F0014B4AC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

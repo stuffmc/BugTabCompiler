@@ -8,3 +8,6 @@ it's missing the `value` parameter in a `Tab` when a `selection` is given.
 Instead, it spits `'buildExpression' is unavailable: this expression does not conform to 'TabContent'` which is really not understandable
 
 ![](Error.png)
+
+
+PS: A similar error (`does not conform to 'View'`) happens if you have `value:` but no `selection:`.
